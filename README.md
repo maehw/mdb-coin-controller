@@ -5,7 +5,7 @@ Multidrop bus (MDB) vending machine controller (VMC) for coin acceptor/changer f
 
 # Dependencies and execution
 
-Prerequisites: A PC running Python 3, a coin changer (e.g. mei cashflow C7900) with MDB support and a QBIXXX MDB-USB Interface.
+Prerequisites: A PC running Python 3, a coin changer (e.g. mei cashflow C7900) with MDB support and a [QBIXX MDB-USB Interface](https://qibixx.com/products/mdb-usb-interface/).
 
 Execution:
 
